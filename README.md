@@ -31,10 +31,6 @@ If I'm not available, dm on X (twitter) : https://x.com/1uvnox
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-### 🛠 &nbsp;Currently Learning
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
-
 <!--
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Rust](https://img.shields.io/badge/-rust-05122A?style=flat&logo=rust&logoColor=CE422B)&nbsp;
