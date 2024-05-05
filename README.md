@@ -9,12 +9,9 @@
 <h2>About Me</h2>
 
 Computer science student, started coding when i was 14yr old, i like to create content and help people.
-Highly interested in hacking and cybersec. 
+Highly interested in hacking and cybersec. I was hella inactive on discord (& everywhere basically) till now, im taking coding more seriously starting 2024.
 
-I was hella inactive on discord (& everywhere basically) till now, im taking coding more seriously starting 2024.
-
-<h4>i use arch btw</h4>
-<h4>i like coding </> </h4>
+<h4>i like coding, nature, money & building pc. i use arch btw</h4>
 
 Part-time composer of top quality music.</br>
 
