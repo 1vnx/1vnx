@@ -1,5 +1,3 @@
-<h1>Daksh | Luvnox</h1>
-
 <h3>Visitor Count</h3>
 
 <p align = "center"><img src = "https://count.getloli.com/get/@:1vnx?theme=rule34" </p></br>
