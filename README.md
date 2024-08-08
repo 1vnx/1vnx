@@ -19,7 +19,7 @@ JSNRVW'       __+MNAEC\IOI,\BN'
 HELK['    __,=OFFXCBGHC\FD)           ├── Email 🡪 dakshcodes@gmail.com 
 ?KGHE \_-#DASDFLSV='    'EF           ├── Instagram 🡪 @luvnoxtech
 'EHTI                    !H           ├── Twitter 🡪 @luvnoxtech
- `0F'                    '!           ├── Open to collaborations 
+ `0F'                    '!           └── Open to collaborations 
 ```
 
 my bestie : [@swargaraj](https://github.com/swargaraj)
