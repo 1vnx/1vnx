@@ -4,6 +4,7 @@
 
 <p align = "center"><img src = "https://count.getloli.com/get/@:1vnx?theme=rule34" </p></br>
 
+```shell
   $ daksh
                __                     luvnox@github
          _=(SDGJT=_                   -------------------------------
@@ -21,5 +22,6 @@ HELK['    __,=OFFXCBGHC\FD)           ├── Email 🡪 dakshcodes@gmail.com
 ?KGHE \_-#DASDFLSV='    'EF           ├── Instagram 🡪 [@luvnoxtech] (https://instagram.com/luvnoxtech)
 'EHTI                    !H           ├── Twitter 🡪 [@luvnoxtech] (https://x.com/luvnoxtech)
  `0F'                    '!           ├── Open for collaborations 
+```
 
 my bestie : [@swargaraj](https://github.com/swargaraj)
