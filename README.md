@@ -19,8 +19,8 @@
  HKLSGP'           __\TKM0\GHRBV)'    └── Shell 🡪 Zsh
 JSNRVW'       __+MNAEC\IOI,\BN'        
 HELK['    __,=OFFXCBGHC\FD)           ├── Email 🡪 dakshcodes@gmail.com 
-?KGHE \_-#DASDFLSV='    'EF           ├── Instagram 🡪 [@luvnoxtech] (https://instagram.com/luvnoxtech)
-'EHTI                    !H           ├── Twitter 🡪 [@luvnoxtech] (https://x.com/luvnoxtech)
+?KGHE \_-#DASDFLSV='    'EF           ├── Instagram 🡪 @luvnoxtech
+'EHTI                    !H           ├── Twitter 🡪 @luvnoxtech
  `0F'                    '!           ├── Open to collaborations 
 ```
 
