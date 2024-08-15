@@ -22,4 +22,4 @@ HELK['    __,=OFFXCBGHC\FD)           ├── Email 🡪 dakshcodes@gmail.com
  `0F'                    '!           └── Open to collaborations 
 ```
 
-my bestie : [@swargaraj](https://github.com/swargaraj)
+colleage : [@swargaraj](https://github.com/swargaraj)
