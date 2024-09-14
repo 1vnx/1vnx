@@ -21,5 +21,3 @@ HELK['    __,=OFFXCBGHC\FD)           ├── Email 🡪 dakshcodes@gmail.com
 'EHTI                    !H           ├── Twitter 🡪 @luvnoxtech
  `0F'                    '!           └── Open to collaborations 
 ```
-
-colleage : [@swargaraj](https://github.com/swargaraj)
