@@ -1,7 +1,6 @@
 ### Heyy folks, I'm Daksh Joshi 👋
 
 Guy with a passion for programming. Loves to build impactful solutions for real-world problems, while exploring new technologies. Dedicated to collaboration and always eager to take on new challenges.
-<br> <br>
 I love to explore technology, topics such as linux, low-level programming, system design & exploring how things actaully work, attracts me.
 <br> <br>
 Apart from tech, my hobbies range from content creation, building & organising my setup, I hate to go out, likes watching anime and music <3
